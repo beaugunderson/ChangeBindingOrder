@@ -1,0 +1,7 @@
+
+/ipch
+/Release
+/Debug
+/ChangeBindingOrder/Release
+/ChangeBindingOrder/Debug
+*.suo
